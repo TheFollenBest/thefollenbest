@@ -1,6 +1,3 @@
-<!-- ▓▓▓ DANIL.SYS ▓▓▓ you read the source? achievement unlocked: [CURIOUS DEV] 🏆 -->
-<!-- setup: put this README.md + the /assets folder into your profile repo → TheFollenBest/TheFollenBest -->
-
 <div align="center">
 
 <img src="assets/header.svg" width="100%" alt="Boot sequence: DANIL aka TheFollenBest — JS developer · UI/UX apprentice · gamer"/>
@@ -9,8 +6,8 @@
 
 <img src="assets/stats-header.svg" width="100%" alt="danil@github:~$ git log --stat ./danil"/>
 
-<a href="https://github.com/TheFollenBest"><img height="165" src="https://github-readme-stats.vercel.app/api?username=TheFollenBest&hide_title=true&show_icons=true&hide_border=true&bg_color=060d07&text_color=2fd657&icon_color=1d7a33&ring_color=39ff6a&title_color=39ff6a" alt="GitHub stats"/></a>
-<a href="https://github.com/TheFollenBest?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFollenBest&layout=compact&hide_title=true&hide_border=true&bg_color=060d07&text_color=2fd657&title_color=39ff6a" alt="Most used languages"/></a>
+<a href="https://github.com/TheFollenBest"><img height="165" src="assets/stats.svg" alt="GitHub stats — auto-updated daily by Actions"/></a>
+<a href="https://github.com/TheFollenBest?tab=repositories"><img height="165" src="assets/langs.svg" alt="Top languages — auto-updated daily by Actions"/></a>
 
 <img src="assets/connect-header.svg" width="100%" alt="danil@github:~$ ssh danil@everywhere -p 1337"/>
 
