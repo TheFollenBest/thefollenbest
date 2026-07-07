@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="156" viewBox="0 0 880 156" role="img" aria-label="exit — connection closed">
+<title>exit — connection closed</title><style>
+text{font-family:'Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,'SF Mono',Menlo,Consolas,monospace}
+@keyframes ftfadeIn{to{opacity:1}}
+.ftfi{opacity:0;animation:ftfadeIn .06s linear both}
+@keyframes ftblink{0%,55%{opacity:1}56%,100%{opacity:0}}
+.ftblink{animation:ftblink 1.1s steps(1,end) infinite}
+@keyframes ftcover{to{transform:translateX(var(--w))}}
+@keyframes ftvanish{to{opacity:0}}
+
+.ftmq{animation:ftmq 13s linear infinite}
+@keyframes ftmq{to{transform:translateX(-586px)}}
+.ftcyc{transform-origin:440px 78px;animation:ftcyc 18s linear 6s infinite}
+@keyframes ftcyc{0%,80%{transform:scale(1,1);opacity:1}83%{transform:scale(1,.01);opacity:1}84%,90%{opacity:0;transform:scale(1,1)}91%{opacity:.6}93%{opacity:.15}95%,100%{opacity:1;transform:scale(1,1)}}
+</style><defs><pattern id="ftscanP" width="1" height="4" patternUnits="userSpaceOnUse"><rect width="1" height="1.4" fill="#000" opacity="0.5"/></pattern><clipPath id="ftmclip"><rect x="2" y="16" width="876" height="40"/></clipPath></defs><rect x="1" y="1" width="878" height="154" rx="14" fill="#060d07" stroke="#16351c" stroke-width="1.5"/><g class="ftcyc"><g clip-path="url(#ftmclip)"><g class="ftmq"><text x="0" y="44" font-size="15" fill="#2fd657" opacity=".75">+++ GG WP +++ THANKS FOR SCROLLING +++ INSERT COIN TO CONTINUE </text><text x="586" y="44" font-size="15" fill="#2fd657" opacity=".75">+++ GG WP +++ THANKS FOR SCROLLING +++ INSERT COIN TO CONTINUE </text></g></g><line x1="40" y1="66" x2="840" y2="66" stroke="#16351c" stroke-width="1.5"/><text x="40" y="100" font-size="13"><tspan fill="#1d7a33">danil@github:~$ </tspan><tspan fill="#b6ffcb">exit</tspan></text>
+<rect x="37" y="84" width="168" height="21" fill="#060d07" style="--w:168px;animation:ftcover 0.83s steps(20,end) 1s both,ftvanish .01s linear 1.83s both"/><text x="40" y="128" font-size="13" fill="#2fd657" opacity=".85" class="ftfi" style="animation-delay:2.4s">connection closed.</text><text x="196" y="128" font-size="13" fill="#39ff6a" opacity="0" style="animation:ftblink 1.1s steps(1,end) 2.4s infinite">▊</text><text x="840" y="128" font-size="12.5" fill="#1d7a33" text-anchor="end" opacity=".8">↑ ↑ ↓ ↓ ← → ← → B A</text></g><rect x="1" y="1" width="878" height="154" rx="14" fill="url(#ftscanP)" opacity=".16"/></svg>

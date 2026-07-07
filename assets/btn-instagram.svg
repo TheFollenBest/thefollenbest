@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210" height="46" viewBox="0 0 210 46" role="img" aria-label="INSTAGRAM — connect">
+<title>INSTAGRAM — connect</title><style>
+text{font-family:'Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,'SF Mono',Menlo,Consolas,monospace}
+@keyframes b2fadeIn{to{opacity:1}}
+.b2fi{opacity:0;animation:b2fadeIn .06s linear both}
+@keyframes b2blink{0%,55%{opacity:1}56%,100%{opacity:0}}
+.b2blink{animation:b2blink 1.1s steps(1,end) infinite}
+@keyframes b2cover{to{transform:translateX(var(--w))}}
+@keyframes b2vanish{to{opacity:0}}
+
+.b2hl{animation:b2hl 8s linear 3.2s infinite}
+@keyframes b2hl{0%,100%{opacity:0}5%{opacity:.13}11%{opacity:.13}16%{opacity:0}}
+.b2st{animation:b2st 8s linear 3.2s infinite}
+@keyframes b2st{0%,100%{stroke:#1d7a33}5%{stroke:#39ff6a}11%{stroke:#39ff6a}16%{stroke:#1d7a33}}
+</style><rect x="1" y="1" width="208" height="44" rx="10" fill="#060d07" stroke="#1d7a33" stroke-width="1.5" class="b2st"/><rect x="1" y="1" width="208" height="44" rx="10" fill="#39ff6a" opacity="0" class="b2hl"/><rect x="20" y="17" width="12" height="12" fill="#E4405F" shape-rendering="crispEdges"/><text x="44" y="28" font-size="14" font-weight="bold" fill="#b6ffcb" letter-spacing="2">INSTAGRAM</text><text x="190" y="28" font-size="13" fill="#1d7a33" text-anchor="end">↗</text></svg>

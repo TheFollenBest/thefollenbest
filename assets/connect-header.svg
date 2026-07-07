@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="56" viewBox="0 0 880 56" role="img" aria-label="ssh danil@everywhere">
+<title>ssh danil@everywhere</title><style>
+text{font-family:'Cascadia Code','JetBrains Mono','Fira Code',ui-monospace,'SF Mono',Menlo,Consolas,monospace}
+@keyframes cnfadeIn{to{opacity:1}}
+.cnfi{opacity:0;animation:cnfadeIn .06s linear both}
+@keyframes cnblink{0%,55%{opacity:1}56%,100%{opacity:0}}
+.cnblink{animation:cnblink 1.1s steps(1,end) infinite}
+@keyframes cncover{to{transform:translateX(var(--w))}}
+@keyframes cnvanish{to{opacity:0}}
+
+</style><defs><pattern id="cnscanP" width="1" height="4" patternUnits="userSpaceOnUse"><rect width="1" height="1.4" fill="#000" opacity="0.5"/></pattern></defs><rect x="1" y="1" width="878" height="54" rx="12" fill="#060d07" stroke="#16351c" stroke-width="1.5"/><text x="40" y="35" font-size="13.5"><tspan fill="#1d7a33">danil@github:~$ </tspan><tspan fill="#b6ffcb">ssh danil@everywhere -p 1337</tspan></text>
+<rect x="37" y="18.5" width="375" height="22" fill="#060d07" style="--w:375px;animation:cncover 1.47s steps(44,end) 0.3s both,cnvanish .01s linear 1.77s both"/><text x="417" y="35" font-size="13.5" fill="#39ff6a" opacity="0" style="animation:cnblink 1.1s steps(1,end) 1.77s infinite">▊</text><text x="840" y="35" font-size="12" fill="#1d7a33" text-anchor="end" opacity=".9"># pick your channel</text><rect x="1" y="1" width="878" height="54" rx="12" fill="url(#cnscanP)" opacity=".14"/></svg>
